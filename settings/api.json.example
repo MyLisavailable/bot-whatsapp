@@ -1,9 +1,5 @@
 {
-    "apiNoBg": ["YOUR-API-KEY-HERE", "ADD-OTHER-API-KEY-HERE-FOR-MORE-LIMIT", "AND-AGAIN"],
-    "apiFarzain": "YOUR-API-KEY-HERE",
-    "apiItech": "YOUR-API-KEY-HERE",
-    "apiLol": "YOUR-API-KEY-HERE",
-    "apiGenius": "YOUR-API-KEY-HERE",
-    "apiOcr": "YOUR-API-KEY-HERE",
-    "saweriaOverlay": "YOUR SAWERIA OVERLAY LINK"
+    "apiNoBg": "wes75MwZXSkvtS49tnkA4Z4i",
+    "apiGenius": "87PwT4m13-nigtWnXAdEmusR_OD_hwy5TfxgaJCAS_rDD9XBuHxEitwswaZtKHLKItXdcwiWgNdWOyLf-kfEbw",
+    "apiOcr": "AYeZBOFWgQPe9XUvplSijz",
 }
